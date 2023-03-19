@@ -1,0 +1,68 @@
+.signup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-100%, -50%);
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ddd;
+    display: inline-block;
+}
+
+.signin {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(10%, -50%);
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ddd;
+    display: inline-block;
+}
+
+
+.allinput {
+    border-radius: 8px;
+    width: 90%;
+    border: 0.5px solid grey;
+}
+
+
+.container {
+    text-align: center;
+}
+
+.section1 {
+    display: inline-block;
+    width: 20%;
+    background-color: #f2f2f2;
+    margin: 4px;
+    border: 2px solid #ddd;
+}
+
+.section2 {
+    display: inline-block;
+    width: 20%;
+    background-color: #f2f2f2;
+    margin: 4px;
+    border: 2px solid #ddd;
+}
+
+.section3 {
+    display: inline-block;
+    width: 20%;
+    background-color: #f2f2f2;
+    margin: 4px;
+    border: 2px solid #ddd;
+}
+
+
+.section4 {
+    display: inline-block;
+    width: 20%;
+    background-color: #f2f2f2;
+    margin: 4px;
+    border: 2px solid #ddd;
+}
